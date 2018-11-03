@@ -5,7 +5,7 @@
  * Description: Login as any user with a master password.
  * Author: Arūnas Liuiza
  * Author URI: http://arunas.co/
- * Version: 0.1.6
+ * Version: 0.1.7
  * Text Domain: tinygodmode
  *
  * @package TinyGodMode
